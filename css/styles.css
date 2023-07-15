@@ -11016,3 +11016,11 @@ header.masthead h1, header.masthead .h1 {
 #portfolio{
   background-color: white;
 }
+
+.navbar{
+     visibility: hidden;
+}
+
+html {
+  overflow: hidden;
+}
