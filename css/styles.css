@@ -11012,3 +11012,7 @@ header.masthead h1, header.masthead .h1 {
   height: 100%;
   object-fit: cover;
 }
+
+#portfolio{
+  background-color: white;
+}
